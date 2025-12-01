@@ -1,4 +1,3 @@
-'EOF'
 # Product Tiers
 
 ## Basic Tier
@@ -11,4 +10,4 @@
 - Up to 10 users
 - Priority support + Slack channel
 - Advanced analytics
-EOF
+
