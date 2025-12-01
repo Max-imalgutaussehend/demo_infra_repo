@@ -1,4 +1,3 @@
-'EOF'
 # Q2 2025 Product Roadmap
 
 ## Planned Features
@@ -10,4 +9,4 @@
 - April: Analytics Dashboard Beta
 - May: Multi-tenant Architecture
 - June: API v2 Launch
-EOF
+
